@@ -4,6 +4,6 @@
 
 
 ### Recommendation #1
-
+Look at the monthly statistics for all months. 
 ### Recommendation #2
 
